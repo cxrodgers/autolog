@@ -1,3 +1,4 @@
+#!/home/jack/miniconda2/bin/python
 # Logging wrapper for running automated scripts
 # * Typically called by cron
 # * Executes the command, captures all output to dated logfile
